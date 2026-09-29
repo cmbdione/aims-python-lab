@@ -1,0 +1,5 @@
+Dakar,29
+Saint-Louis,31
+Ziguinchor,27
+Tamba,35
+
